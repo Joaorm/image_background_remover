@@ -32,7 +32,7 @@ pip install -r requirements.txt
 3. Running the App
 To run the Streamlit app locally, use the following command:
 ```bash
-streamlit run app.py
+streamlit run bg_remove.py
 ```
 
 Once the app is running, open your browser and navigate to the local URL provided by Streamlit, typically http://localhost:8501.
