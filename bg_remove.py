@@ -13,13 +13,8 @@ import base64
 st.set_page_config(layout="wide", page_title="Image Background Remover")
 
 
-<<<<<<< HEAD
 st.write("## DEV: - Background Images: Animals")
 st.write("## DEV: - Test")
-=======
-
-st.write("## FEATURE 2 - Background Images: Zebra")
->>>>>>> 815cb30f916a0d0626186e11a103e792fbfc82d6
 
 st.write(
     ":dog: Try uploading an image to watch the background magically removed. Full quality images can be downloaded from the sidebar. This code is open source and available [here](https://github.com/tyler-simons/BackgroundRemoval) on GitHub. Special thanks to the [rembg library](https://github.com/danielgatis/rembg) :grin:"
